@@ -1,0 +1,18 @@
+* 
+{
+    margin: 0 auto;
+    padding: 0;
+}
+
+h3, div
+{
+    margin-left: 10px;
+    margin-top: 10px; 
+}
+
+select 
+{
+    float: right;
+    margin-right: 50%;
+    width: 100px;
+}
